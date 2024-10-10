@@ -1,2 +1,4 @@
 # Ignore virtual environments
 .venv/
+data/
+models/
